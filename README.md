@@ -9,7 +9,7 @@ STEPS :shipit:
 
 4. unzip payara-5.184.zip 
 
-5. in command console execute payara5\bin\asadmin --> $ asadmin.bat start-domain
+5. in command console execute payara5\bin\ --> $ asadmin.bat start-domain
 
 6. Excute in a browser http://localhost:4848
 
