@@ -19,3 +19,7 @@ STEPS :shipit:
 7. application option --> deploy -->select a file (war) -->ok
 
 8. Execute on the browser http://localhost:8080/microprofile-example/api/students and http://localhost:8080/microprofile-example/
+
+![Image of rest service students](https://github.com/hhugohm/microprofile-service/blob/master/src/main/resources/students.JPG)
+
+
