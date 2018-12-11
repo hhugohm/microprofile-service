@@ -1,5 +1,5 @@
 ----
-STEPS
+STEPS :shipit:
 ----
 1. clone de project 
 
