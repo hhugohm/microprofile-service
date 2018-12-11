@@ -11,10 +11,9 @@ STEPS :shipit:
 
 5. in command console execute payara5\bin\asadmin --> $ asadmin.bat start-domain
 
-![Image of payara5](https://github.com/hhugohm/microprofile-service/blob/master/src/main/resources/payara.JPG)
-
 6. Excute in a browser http://localhost:4848
 
+![Image of payara5](https://github.com/hhugohm/microprofile-service/blob/master/src/main/resources/payara.JPG)
 
 
 7. application option --> deploy -->select a file (war) -->ok
