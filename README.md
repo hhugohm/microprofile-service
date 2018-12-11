@@ -1,18 +1,18 @@
 ----
 STEPS
 ----
-- clone de project 
+1. clone de project 
 
-- execute  mvn clean install war:war
+2. execute  mvn clean install war:war
 
-- download https://www.payara.fish/software/downloads/all-downloads/  full version
+3. download https://www.payara.fish/software/downloads/all-downloads/  full version
 
-- unzip payara-5.184.zip 
+4. unzip payara-5.184.zip 
 
-- in command console execute payara5\bin\asadmin --> $ asadmin.bat start-domain
+5. in command console execute payara5\bin\asadmin --> $ asadmin.bat start-domain
 
-- Excute in a browser http://localhost:4848
+6. Excute in a browser http://localhost:4848
 
-- application option --> deploy -->select a file (war) -->ok
+7. application option --> deploy -->select a file (war) -->ok
 
-- http://localhost:8080/microprofile-example/api/students and http://localhost:8080/microprofile-example/
+8. Execute on the browser http://localhost:8080/microprofile-example/api/students and http://localhost:8080/microprofile-example/
