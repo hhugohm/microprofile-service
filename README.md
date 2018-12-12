@@ -1,5 +1,5 @@
 ----
-STEPS :shipit:
+STEPS :octocat:
 ----
 1. clone de project 
 
