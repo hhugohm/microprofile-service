@@ -14,7 +14,7 @@ STEPS :shipit:
 4. If you need a process kill because the 8080 port is busy execute:
 * netstat -ano | findstr :8080
 * taskkill /PID NO_PROCESS /F
---
+*
 ![Image of busy port](https://github.com/hhugohm/microprofile-service/blob/microprofile-thorntail/src/main/resources/kill_process.JPG)
 
 
