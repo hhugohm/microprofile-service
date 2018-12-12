@@ -1,7 +1,7 @@
 ----
 STEPS :octocat:
 ----
-1. clone de project 
+1. https://thorntail.io/generator/ or clone a microprofile-thorntail
 
 2. execute  mvn thorntail:run
 
